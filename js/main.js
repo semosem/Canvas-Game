@@ -28,9 +28,7 @@ window.addEventListener('mousemove', function(e){
   mouseObj.x=e.x;
   mouseObj.y=e.y;
 });
-// setInterval(function(){
-//   console.log(mouseObj);
-// },1000);
+
 
 
 // array of items inside the canvas
