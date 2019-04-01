@@ -1,4 +1,4 @@
-# Use arrows, Q and W on your keyboard to play.
+#### Use arrow keys, Q and W on your keyboard to play.
 
 
 Here are some lessons
